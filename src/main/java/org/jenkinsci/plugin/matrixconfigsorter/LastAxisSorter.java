@@ -80,7 +80,7 @@ public class LastAxisSorter extends MatrixConfigurationSorter{
     public static class DescriptorImpl extends MatrixConfigurationSorterDescriptor {
         @Override
         public String getDisplayName() {
-            return "last axis order";
+            return "Last axis order";
         }
 
     }
